@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/76004051f9a42f49481454fcfbf7b3d04e19d40c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_1f1f14fd6f4841f610d66f4e31650cb270154f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/1d44fdb9c061282b117b011f2f1c3a48e689f898/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_09fe6509631a99eb6b364b2dc48efb85ebc723b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/c8259dfdb651a7fb5b03e232bfbd87ce4fe9bbcf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_6a5c618d71d82adfd3690acb86b82bb41868c054.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88af3d3170bf872aa3cc24a36c4122ebbdc2b5b7">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2f7177b0109434ca173f272855d793775a6425af/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/258303c63f16c1b8d95c6af7c3e4760a7193d5dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_f6d515dd5e4376d351ace6cdf734df5b23413548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/48fb90d9d47d22f780d8375342c3901dfed0088c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_56695cbb49700ab83a1f8f418d2d8eb5af0b9ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/184a1276ce51553a3abe95f59209add2ae651c49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_75e9fe1847710aee758cf08be7a2afb06d035d2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_c87a079fac254379c3b85f74680d721c1413d3e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/f012f93d91443d5edd695ba214945e375924fe86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_794d9459acaa9e3cf6a5dfd68c7a135382c766c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_de64d438c51a4835f6782079aba204d842ab0868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/76e22777fb227884a15321ef4f0515a69dc408fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_a117c672536a493ebf8e2ad9fe638120ed11f733.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_de3b7f5c4587309936dd8399d8bd3536a19748fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/915f918c15496bf118f4c6b66a6f2dab5ad0b8b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_16eb5cf13db2f3efab1878d5fe75de1367927c5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/801c38edd082b62451d119c82d32ab2d1bb6d71f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_ebc156785b209aba23197377f9a0a673fadbb465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/deec0af4b00666855830deff81117f9d897bb0ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_46ab0244ce03df37530bb64850e84f3f85d0a0b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/b55dedd4ee7cba8b794475e413a7f3d8561d86a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_2775d6fe9b701bf649013472580e251090fdb790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramdan/.android/build-cache/a70ccb10578e5afe976aad0496b73c74baa9d09b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/ramdan/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_2ab630c764792266bdbe6ced5bdcf5a3fc451f83.jar" />
+    </item>
+
+</items>
